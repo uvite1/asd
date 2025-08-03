@@ -1,0 +1,4 @@
+flask>=2.0.0
+PyVimeo>=1.1.2
+python-dotenv>=0.19.0
+python-telegram-bot>=20.0
